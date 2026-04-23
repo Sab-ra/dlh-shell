@@ -15,3 +15,7 @@ File 2-groups when excecute lists all groups the curren user belongs to.
 ## Change hello file owner to user betty
 
 File 3-new_owner changes file hello located in the same directory to use betty, when excecute
+
+## Create an empty hello file
+
+File 4-empty creates an empty file called hello, when excecute
