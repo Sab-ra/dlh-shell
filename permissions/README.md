@@ -19,3 +19,7 @@ File 3-new_owner changes file hello located in the same directory to use betty, 
 ## Create an empty hello file
 
 File 4-empty creates an empty file called hello, when excecute
+
+## Grant excecute hello permission
+
+File 5-excecute adds excecute permission to the owner of the file hello
