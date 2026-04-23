@@ -20,6 +20,6 @@ File 3-new_owner changes file hello located in the same directory to use betty, 
 
 File 4-empty creates an empty file called hello, when excecute
 
-## Grant excecute hello permission
+## Grant execute hello permission
 
-File 5-excecute adds excecute permission to the owner of the file hello. Well, it actually does it without overwriting the entire permissions: chmod +x hello. Oppa!
+File 5-execute adds excecute permission to the owner of the file hello. Well, it actually does it without overwriting the entire permissions: chmod u+x hello. Oppa!
