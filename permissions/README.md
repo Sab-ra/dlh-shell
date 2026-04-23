@@ -22,4 +22,4 @@ File 4-empty creates an empty file called hello, when excecute
 
 ## Grant excecute hello permission
 
-File 5-excecute adds excecute permission to the owner of the file hello
+File 5-excecute adds excecute permission to the owner of the file hello. Well, it actually does it without overwriting the entire permissions: chmod +x hello. Oppa!
