@@ -23,3 +23,11 @@ File 4-empty creates an empty file called hello, when excecute
 ## Grant execute hello permission
 
 File 5-execute adds excecute permission to the owner of the file hello. Well, it actually does it without overwriting the entire permissions: chmod u+x hello. Oppa!
+
+## Multiple permissions adjustment
+
+E.g. ls -l: _rw_r_____ hello And we need to add excecute to user and group users, and add read to others:
+
+```bash
+# chmod ug+x, o+r hello
+```
