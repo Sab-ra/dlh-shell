@@ -35,3 +35,7 @@ E.g. ls -l: _rw_r_____ hello And we need to add excecute to user and group users
 ## Permissions for everyone
 
 File 7-everybody allows to change user, group, and others permission with a single letter command for the type definition
+
+## Fire from two hands
+
+Change permissions like 8-Games_Bond
