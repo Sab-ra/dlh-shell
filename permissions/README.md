@@ -51,3 +51,6 @@ Excecute 10-mirror_permissions
 ## Add execute permission to directory and dir within it
 
 Execute 11-directories_permissions
+
+## Make a directory and assign permissions in one go
+Execute 12-directory_permissions
