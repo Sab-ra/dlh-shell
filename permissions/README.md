@@ -61,3 +61,6 @@ Execute 13-change_group
 
 ## Change owner and group user Recourcively
 Excecute 14-change_owner_and_group
+## Change permissions for symbolic link
+
+Execute 15-symbolic_link_permissions
