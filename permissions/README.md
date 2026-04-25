@@ -48,3 +48,6 @@ That will happen when 9-John_Dow excecute
 
 Excecute 10-mirror_permissions
 
+## Add execute permission to directory and dir within it
+
+Execute 11-directories_permissions
