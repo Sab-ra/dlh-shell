@@ -43,3 +43,8 @@ Change permissions like James Bond, taking them away from user and groups, and g
 ## Make hello exactly -rwxr-x-wx
 
 That will happen when 9-John_Dow excecute
+
+## Mirror exact permissions from one file to another
+
+Excecute 10-mirror_permissions
+
