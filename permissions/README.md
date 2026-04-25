@@ -38,4 +38,4 @@ File 7-everybody allows to change user, group, and others permission with a sing
 
 ## Fire from two hands
 
-Change permissions like 8-James_Bond
+Change permissions like James Bond, taking them away from user and groups, and giving to others 8-James_Bond
