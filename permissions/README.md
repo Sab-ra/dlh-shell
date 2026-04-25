@@ -54,3 +54,7 @@ Execute 11-directories_permissions
 
 ## Make a directory and assign permissions in one go
 Execute 12-directory_permissions
+
+## Change group owner of a file
+
+Execute 13-change_group
