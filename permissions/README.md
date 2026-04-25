@@ -39,3 +39,7 @@ File 7-everybody allows to change user, group, and others permission with a sing
 ## Fire from two hands
 
 Change permissions like James Bond, taking them away from user and groups, and giving to others 8-James_Bond
+
+## Make hello exactly -rwxr-x-wx
+
+That will happen when 9-John_Dow excecute
